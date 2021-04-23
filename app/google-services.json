@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950054827987",
+    "firebase_url": "https://covid-restaurant-help-be081-default-rtdb.firebaseio.com",
+    "project_id": "covid-restaurant-help-be081",
+    "storage_bucket": "covid-restaurant-help-be081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950054827987:android:63039bae58020f1cc1e126",
+        "android_client_info": {
+          "package_name": "com.example.covid_restaurant_help"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950054827987-i7b9afogks8jh72ur1k0tfv6t66orrbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQyAfn-CO7081ehkU8cKSIcxwDhx7cQAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950054827987-i7b9afogks8jh72ur1k0tfv6t66orrbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
